@@ -1,0 +1,3 @@
+let hello =()=>{
+  alert('hello');
+}
